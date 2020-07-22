@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-22 11:15:32</sys_created_on>
-        <sys_id>3a279b532f0ad0104a644f2e2c99b622</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>62932f5b2f0ad0104a644f2e2c99b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Display Name</sys_name>
         <sys_package display_value="Wish List" source="x_519302_wish_list">d3f24b172fc6d0104a644f2e2c99b674</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">d3f24b172fc6d0104a644f2e2c99b674</sys_scope>
         <sys_update_name>sys_dictionary_x_519302_wish_list_wish_item_display_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-22 11:15:33</sys_updated_on>
+        <sys_updated_on>2020-07-22 12:09:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
